@@ -1,0 +1,70 @@
+{
+  "menu": [
+    {
+      "url": "/students",
+      "name": "Estudiantes",
+      "icon": "menu-icon tf-icons ri-user-smile-line",
+      "slug": "students"
+    },
+    {
+      "url": "/accomodations",
+      "name": "Alojamientos",
+      "icon": "menu-icon tf-icons ri-home-line",
+      "slug": "accomodations"
+    },
+    {
+      "url": "/scholarships",
+      "name": "Becas",
+      "icon": "menu-icon tf-icons ri-hand-coin-line",
+      "slug": "scholarships"
+    },
+    {
+      "url": "/inquiries",
+      "name": "Solicitudes",
+      "icon": "menu-icon tf-icons ri-file-paper-line",
+      "slug": "/inquiries"
+    },
+    {
+      "url": "/grants",
+      "name": "Concesiones",
+      "icon": "menu-icon tf-icons ri-file-line",
+      "slug": "/inquiries"
+    },
+    {
+      "url": "/rates",
+      "name": "Tarifas y Fechas",
+      "icon": "menu-icon tf-icons ri-price-tag-line",
+      "slug": "rates"
+    },
+    {
+      "url": "/email-templates",
+      "name": "E-mails",
+      "icon": "menu-icon tf-icons ri-mail-line",
+      "slug": "rates"
+    },
+    {
+      "url": "/graduates",
+      "name": "Graduados",
+      "icon": "menu-icon tf-icons ri-graduation-cap-line",
+      "slug": "graduates"
+    },
+    {
+      "url": "",
+      "name": "Tests",
+      "icon": "menu-icon tf-icons ri-a-b",
+      "slug": "tests"
+    },
+    {
+      "url": "/users",
+      "name": "Usuarios",
+      "icon": "menu-icon tf-icons ri-group-line",
+      "slug": "users"
+    },
+    {
+      "url": "",
+      "name": "Pedidos",
+      "icon": "menu-icon tf-icons ri-file-list-line",
+      "slug": ""
+    }
+  ]
+}
